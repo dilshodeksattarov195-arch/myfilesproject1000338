@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercerify",
+        "uuid": 3228576,
+        "checksum": "tyz0lb"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
